@@ -4,6 +4,8 @@
 
 The task for this project was to attempt a code refactoring for the University of Texas- Houston Coding Boot Camp. Elements were altered to improve the developer and user experience.  
 
+LIVE LINK: https://tajah93.github.io/Homework--01/
+
 **Features** 
 
 * The div tags in the original code were changed to semantic tags (like nav, section, etc.) in both HTML and CSS.   
